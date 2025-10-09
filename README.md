@@ -9,29 +9,28 @@ This project explores crime patterns in San Francisco using public city data. Th
 The data comes from the San Francisco Open Data Portal
 . It includes details such as:
 
-Incident date & time
+- Incident date & time
 
-Category and description of crime
+- Category and description of crime
 
-Neighborhood
+- Neighborhood
 
-Police district
+- Police district
 
-Latitude & longitude coordinates
+- Latitude & longitude coordinates
 
 **Objectives**
 
-Clean and preprocess raw data for analysis
+- Clean and preprocess raw data for analysis
 
-Explore crime frequency by category, time, and location
+- Explore crime frequency by category, time, and location
 
-Visualize crime trends and hotspots
-
+- Visualize crime trends and hotspots
 
 **Tools & Technologies**
 
-Python (Pandas, NumPy, Matplotlib)
+- Python (Pandas, NumPy, Matplotlib)
 
-Jupyter Notebook for data exploration
+- Jupyter Notebook for data exploration
 
 
